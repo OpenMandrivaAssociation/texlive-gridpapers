@@ -1,6 +1,6 @@
 Name:		texlive-gridpapers
 Version:	58723
-Release:	1
+Release:	2
 Summary:	Graph paper backgrounds and color schemes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gridpapers
