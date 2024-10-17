@@ -3,7 +3,7 @@ Version:	58723
 Release:	2
 Summary:	Graph paper backgrounds and color schemes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gridpapers
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gridpapers
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gridpapers.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gridpapers.doc.r%{version}.tar.xz
